@@ -7,7 +7,7 @@
 ## SeqGAN模型结构
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="seq.jpeg" width="80%" height="10%"/>
+	<img src="SeqGAN_architecture.png" width="80%" height="10%"/>
 </div>
 </a>
 
