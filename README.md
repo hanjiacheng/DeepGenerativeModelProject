@@ -5,11 +5,9 @@
 - seqGAN文件是seqGAN模型的实现。通过main.py运行。
 
 ## SeqGAN模型结构
-<a href="http://tensorlayer.readthedocs.io">
 <div align="center">
 	<img src="SeqGAN_architecture.png" width="80%" height="10%"/>
 </div>
-</a>
 
 
 ## 运行
