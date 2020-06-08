@@ -4,6 +4,13 @@
 - eda文件是easy data augment方法的实现，通过运行main.py文件使用此方法。
 - seqGAN文件是seqGAN模型的实现。通过main.py运行。
 
+## SeqGAN模型结构
+<a href="http://tensorlayer.readthedocs.io">
+<div align="center">
+	<img src="seq.jpeg" width="80%" height="10%"/>
+</div>
+</a>
+
 
 ## 运行
 ```bash
